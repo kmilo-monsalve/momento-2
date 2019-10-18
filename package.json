@@ -1,0 +1,30 @@
+{
+  "name": "momento_2",
+  "version": "1.0.0",
+  "description": "momento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmilo-monsalve/momento-2.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "mongo",
+    "mongodb",
+    "rest"
+  ],
+  "author": "camilo monsalve alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmilo-monsalve/momento-2/issues"
+  },
+  "homepage": "https://github.com/kmilo-monsalve/momento-2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.5"
+  }
+}
